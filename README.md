@@ -33,4 +33,28 @@ Before you start, ensure that you have the following installed on your machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/quiz-app-assignment.git
+   git clone https://github.com/your-username/Quiz-app-assignment.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Quiz-app
+
+### Install Dependencies
+
+1. Install the required Flutter dependencies by running the following command:
+   ```bash
+   flutter pub get
+
+### Run the Project
+
+Ensure that you have an Android device or emulator running.
+
+Run the app using the following command:
+
+      flutter run
+
+### Screen Recording
+
+Watch this brief screen recording to see how the app works
+
